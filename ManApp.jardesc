@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Users/Nina/Documents/ManApp.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/SE1_MANPRO/ManApp.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=SE1_MANPRO/ui&lt;SE1ui{ManAppUI.java[ManAppUI" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=SE1_MANPRO/ui"/>
+        <file path="/SE1_MANPRO/.project"/>
+        <file path="/SE1_MANPRO/.classpath"/>
+        <javaElement handleIdentifier="=SE1_MANPRO/src"/>
+        <folder path="/SE1_MANPRO/.settings"/>
+        <file path="/SE1_MANPRO/ManApp.jardesc"/>
+    </selectedElements>
+</jardesc>
